@@ -6,7 +6,8 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/alvseven)
 
 
-![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&theme=tokyonight)
+![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&locale=pt-br)
 
 ### Tecnologias que eu mais utilizo nos meus projetos
 
