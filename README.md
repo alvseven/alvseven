@@ -7,7 +7,6 @@
 
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu mais utilizo nos meus projetos
 
