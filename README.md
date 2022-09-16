@@ -15,7 +15,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/alvseven)
 
 
-![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br)
+![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight)
 <img alt="Alves's top langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact" />
 
 ### I usually use in my projects: 
