@@ -7,7 +7,7 @@
 
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&locale=pt-br)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact" />
 
 ### Tecnologias que eu mais utilizo nos meus projetos
 
