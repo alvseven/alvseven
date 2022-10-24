@@ -3,7 +3,7 @@
 #### Passionate about technology and logical thinking 😁
 
 <ul>
-    <li> I'm currently working on - <a href="https://github.com/Kenzie-Academy-Brasil-Developers">Kenzie</a></li>
+    <li> I'm currently working on - <a href="https://github.com/Kenzie-Academy-Brasil-Developers">Kenzie Academy Brasil</a></li>
     <li> I'm currently learning - <img align="center" alt="Node icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> and <img align="center" alt="Express icon" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> </li>
     <li> Ask me about - Javascript, Typescript, React </li>
     <li> How to reach me 👇 </li>
