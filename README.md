@@ -1,4 +1,4 @@
-### Hello world 👋, I'm Alves, front end developer and information security enthusiast 💻
+### Hello world 👋, I'm Alves, full stack developer and information security enthusiast 💻
 
 #### Passionate about technology and logical thinking 😁
 
@@ -27,14 +27,14 @@
     <img align="center" alt="Javascript icon" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="Typescript icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="React icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="Styled components icon" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-            components&logoColor=white">
+     <img align="center" alt="React router icon" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
     <img align="center" alt="Node icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="Express icon" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img align="center" alt="postgresql icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="Git icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Figma icon" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img align="center" alt="Styled components icon" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-            components&logoColor=white">
-    <img align="center" alt="React router icon" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-    <img align="center" alt="Eslint icon" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-    <img align="center" alt="Prettier icon" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
-     <img align="center" alt="JWT icon" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
+    <img align="center" alt="JWT icon" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
     <img align="center" alt="Heroku icon" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <img align="center" alt="Vercel icon" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
     
