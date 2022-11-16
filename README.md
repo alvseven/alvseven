@@ -1,12 +1,12 @@
-### Hello world 👋, I'm Alves, full stack developer and information security enthusiast 💻
+# Hello world 👋, I'm Alves, full stack developer and information security enthusiast 💻
 
-#### Passionate about technology and logical thinking 😁
+### Passionate about technology and logical thinking 😁
 
 <ul>
-    <li> I'm currently working on - <a href="https://github.com/Kenzie-Academy-Brasil-Developers">Kenzie Academy Brasil</a></li>
-    <li> I'm currently learning - <img src="https://skillicons.dev/icons?i=python, docker, nestjs" /></li>
-    <li> Ask me about - <img src="https://skillicons.dev/icons?i=javascript,typescript,react,express" />, Typescript, React </li>
-    <li> How to reach me 👇 </li>
+    <li> <b>I'm currently working on</b> - <a href="https://github.com/Kenzie-Academy-Brasil-Developers">Kenzie Academy Brasil</a></li>
+    <li> <b>I'm currently learning</b> - <i>Python</i></li>
+    <li> <b>Ask me about</b> - <i>Javascript</i>, <i>Typescript</i>, <i>React</i> </li>
+    <li> <b>How to reach me</b> 👇 </li>
 </ul>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alves7/)
@@ -22,7 +22,7 @@
 
 <div style="display: inline_block">
 <br/>
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,react,nextjs,node,express,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,react,nextjs,styledcomponents,figma,nodejs,express,prisma,postgres,jest" />
 </div><br/>
 
 
