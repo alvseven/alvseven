@@ -4,7 +4,7 @@
 
 <ul>
     <li> <b>I'm currently working on</b> - <a href="https://github.com/Kenzie-Academy-Brasil-Developers">Kenzie Academy Brasil</a></li>
-    <li> <b>I'm currently learning</b> - <i>Python</i></li>
+    <li> <b>I'm currently learning</b> - <i>Python</i>, <i>Docker</i></li>
     <li> <b>Ask me about</b> - <i>Javascript</i>, <i>Typescript</i>, <i>React</i> </li>
     <li> <b>How to reach me</b> 👇 </li>
 </ul>
