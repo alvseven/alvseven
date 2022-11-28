@@ -1,6 +1,6 @@
 # Hello world 👋, I'm Alves, full stack developer and information security enthusiast 💻
 
-### Passionate about technology and logical thinking 😁
+### Passionate about technology, problem solving and logical thinking 😁
 
 <ul>
     <li> <b>I'm currently working on </b> - <a href="https://onesight.com.br/">Onesight</a></li>
