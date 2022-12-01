@@ -13,10 +13,11 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/220332553217900544)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/alvseven)
 
-
+<div style="display: flex">
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight)
 <img alt="Alves's top langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
-
+</div>
+    
 ### *I have made a lot of projects, these are some technologies I have learned:*
 
 <div style="display: inline_block">
