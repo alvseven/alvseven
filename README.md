@@ -21,5 +21,5 @@
 
 <div style="display: inline_block">
 <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,tailwind,sass,nodejs,express,prisma,postgres,jest,python,django,git,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,tailwind,sass,nodejs,express,prisma,jest,python,django,postgres,git,bash,docker" />
 </div><br/>
