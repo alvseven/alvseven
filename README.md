@@ -17,7 +17,7 @@
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight)
 <img alt="Alves's top langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
 
-### I usually use in my projects: 
+### *I usually use in my projects:*
 
 <div style="display: inline_block">
 <br/>
