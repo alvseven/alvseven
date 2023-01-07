@@ -10,8 +10,7 @@
 </ul>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alves7/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/220332553217900544)
-[![Codewars](https://skillicons.dev/icons?i=html")
+<a href="https://www.linkedin.com/in/alves7/"><img src="https://skillicons.dev/icons?i=discord" /></a>
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight)
     
