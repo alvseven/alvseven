@@ -11,7 +11,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alves7/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/220332553217900544)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/alvseven)
+[![Codewars](https://skillicons.dev/icons?i=html")
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight)
     
@@ -21,5 +21,5 @@
 
 <div style="display: inline_block">
 <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,tailwind,sass,nodejs,express,prisma,jest,python,django,postgres,git,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,tailwind,sass,figma,vercel,nodejs,express,prisma,jest,python,django,postgres,git,bash,docker,heroku" />
 </div><br/>
