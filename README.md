@@ -9,8 +9,8 @@
     <li> <b>How to reach me</b> 👇 </li>
 </ul>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alves7/)
-<a href="https://www.linkedin.com/in/alves7/"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://www.linkedin.com/in/alves7/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/alves7/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight)
     
