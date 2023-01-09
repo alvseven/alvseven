@@ -9,15 +9,17 @@
     <li> <b>How to reach me</b> 👇 </li>
 </ul>
 
+<ul>
 <a href="https://www.linkedin.com/in/alves7/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://discordapp.com/users/220332553217900544" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://stackoverflow.com/users/20272416/alves" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+</ul>
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight)
     
-<div style="display: inline_block">
-    <img alt="Alves's top langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
-</div>
+
+<img alt="Alves's top langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
+
 
 ### *I have made a lot of projects, these are some technologies I have learned:*
 
