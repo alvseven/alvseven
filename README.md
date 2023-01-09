@@ -15,7 +15,9 @@
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight)
     
-<img alt="Alves's top langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
+<div style="display: inline_block">
+    <img alt="Alves's top langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
+</div>
 
 ### *I have made a lot of projects, these are some technologies I have learned:*
 
