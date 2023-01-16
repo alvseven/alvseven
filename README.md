@@ -22,6 +22,8 @@
 
 -->
 
+![alvseven's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alvseven&show_icons=true&theme=tokyonight)
+
 ### *I have made a lot of projects, these are some technologies I have learned:*
 
 <div style="display: inline_block">
