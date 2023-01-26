@@ -17,7 +17,7 @@
 
 <div align="center" >
   <img width="450em" height="190em" src="https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="380em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true&theme=dark" />
+  <img width="380em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true&theme=tokyonight" />
 </div>
 
 ### *I have made a lot of projects, these are some technologies I have learned:*
