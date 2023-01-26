@@ -16,8 +16,8 @@
 </ul>
 
 <div>
-  <img width="480em" height="190em" src="https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="480em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
+  <img width="350em" height="190em" src="https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight" />
+  <img width="350em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
 </div>
 
 ### *I have made a lot of projects, these are some technologies I have learned:*
