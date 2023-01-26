@@ -15,14 +15,10 @@
 <a href="https://stackoverflow.com/users/20272416/alves" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 </ul>
 
-<!-- ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight)
-    
-
- <img alt="Alves's top langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
-
--->
-
-![alvseven's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alvseven&show_icons=true&theme=tokyonight)
+<div>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight" />
+  <img margin-left="30px" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true" />
+</div>
 
 ### *I have made a lot of projects, these are some technologies I have learned:*
 
