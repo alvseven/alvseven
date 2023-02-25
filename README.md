@@ -20,7 +20,7 @@
   <img width="380em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true&theme=tokyonight" />
 </div>
 
-### *I have made a lot of projects, these are some technologies I have learned:*
+### *I have made a lot of projects, these are some technologies I have used:*
 
 <div style="display: inline_block">
 <br/>
