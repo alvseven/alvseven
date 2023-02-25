@@ -2,19 +2,21 @@
 
 ### Passionate about technology, problem solving and logical thinking 😁
 
-<ul>
+<div>
+<ul align="left">
     <li> <b>I'm currently working on </b> - <a href="https://onesight.com.br/">Onesight</a></li>
     <li> <b>I'm currently learning </b> - <i>React</i>, <i>Node</i>, <i>Docker</i></li>
     <li> <b>Ask me about</b> - <i>Javascript</i>, <i>Typescript</i>, <i>React</i> </li>
     <li> <b>How to reach me</b> 👇 </li>
 </ul>
 
-<ul>
+<ul align="right">
 <a href="https://www.linkedin.com/in/alves7/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://discordapp.com/users/220332553217900544" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://stackoverflow.com/users/20272416/alves" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 </ul>
-
+</div>
+    
 <div align="center" >
   <img width="450em" height="190em" src="https://github-readme-stats.vercel.app/api?username=alvseven&show_icons=true&count_private=true&theme=tokyonight" />
   <img width="380em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true&theme=tokyonight" />
