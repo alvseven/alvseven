@@ -10,7 +10,7 @@
     <li> <b>How to reach me</b> 👇 </li>
 </ul>
 
-<ul align="center">
+<ul>
 <a href="https://www.linkedin.com/in/alves7/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://discordapp.com/users/220332553217900544" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://stackoverflow.com/users/20272416/alves" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
