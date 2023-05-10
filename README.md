@@ -26,5 +26,5 @@
 
 <div style="display: inline_block">
 <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,tailwind,sass,figma,vercel,nodejs,express,prisma,jest,python,django,postgres,git,bash,docker,heroku" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,redux,styledcomponents,tailwind,sass,figma,vercel,nodejs,express,prisma,jest,py,django,postgres,vite,git,githubactions,bash,docker,heroku,linux" />
 </div><br/>
