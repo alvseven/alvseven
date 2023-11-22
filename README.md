@@ -5,8 +5,7 @@
 <div>
 <ul align="left">
     <li> <b>I'm currently working on </b> - <a href="https://www.linkedin.com/company/b2ml-sistemas/mycompany/">B2ML Sistemas</a></li>
-    <li> <b>I'm currently improving my skills in </b> - <i>Typescript</i>, <i>React</i>, <i>Node</i></li>
-    <li> <b>Ask me about</b> - <i>Javascript</i>, <i>Typescript</i>, <i>React</i> </li>
+    <li> <b>I'm currently improving my skills in </b> - <i>Infrastructure</i>, <i>Observability</i> and <i>Cloud</i></li>
     <li> <b>How to reach me</b> 👇 </li>
 </ul>
 
