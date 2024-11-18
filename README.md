@@ -1,6 +1,6 @@
 # *Hello, world! 👋 I'm Alves, software developer and cybersecurity enthusiast 💻*
 
-### Passionate about technology, problem solving and logical thinking 😁
+### Passionate about technology, low level learning, problem solving and logical thinking 😁
 
 <div>
 <ul align="left">
