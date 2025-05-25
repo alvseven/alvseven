@@ -1,6 +1,6 @@
 # *Hello, world! 👋 I'm Alves, software developer and cybersecurity enthusiast 💻*
 
-### Passionate about technology, low level learning, problem solving and logical thinking 😁
+### Passionate about technology, low level learning, cybersecurity and logical thinking 😁
 
 <div>
 <ul align="left">
@@ -12,12 +12,3 @@
 </div>
 
 <p><i><b>"The bigger the circle of the known, the larger the contact with the unknown."</i></b></p>
-    
-  <img width="380em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true&theme=tokyonight" />
-
-### *I have made and worked in a lot of projects, these are some technologies I have used:*
-
-<div style="display: inline_block">
-<br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,ts,react,nextjs,redux,styledcomponents,tailwind,sass,figma,vercel,nodejs,express,prisma,jest,py,django,postgres,mongodb,redis,vite,git,gitlab,bitbucket,githubactions,bash,docker,heroku,linux,aws,gcp,firebase" />
-</div><br/>
