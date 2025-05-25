@@ -10,6 +10,8 @@
 </ul>
 
 </div>
+
+<p><i><b>"The bigger the circle of the known, the larger the contact with the unknown."</i></b></p>
     
   <img width="380em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvseven&layout=compact&count_private=true&theme=tokyonight" />
 
