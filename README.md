@@ -1,4 +1,4 @@
-# *Hello, world! 👋 I'm Alves, software developer and cybersecurity enthusiast 💻*
+# *Hello, world! 👋 I'm Alves, software engineer and cybersecurity enthusiast 💻*
 
 ### Passionate about technology, low level learning, cybersecurity and logical thinking 😁
 
