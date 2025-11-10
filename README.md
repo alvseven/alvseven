@@ -1,6 +1,6 @@
 # *Yo, I'm Alves, software engineer and cybersecurity enthusiast*
 
-### I Like low level learning, web hacking, and type level programming 
+### I like low level learning, web hacking, and type level programming 
 
 <div>
 <ul align="left">
