@@ -6,6 +6,7 @@
 <ul align="left">
     <li> <b>I'm currently working at </b> - <a href="https://blindpay.com">BlindPay</a> </li>
     <li><b>I'm currently building</b><a href="https://aprendatypescript.com"> <i>Typescript Concepts</i></a> - a paid typescript ebook, <a href="https://www.tsisweird.com/"><i>tsisweird</i></a> - a challenging typescript quiz that covers advanced topics, and my blog as well, <a href="https://alvseven.com">alvseven.com</a> where i publish all my articles</li>
+    <li>You can reach me out here: <a href="https://x.com/typescripting">Twitter</a>, <a href="https://linkedin.com/in/alves7">Linkedin</a> </li>
 </ul>
 
 </div>
