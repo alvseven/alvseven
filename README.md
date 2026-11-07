@@ -6,6 +6,4 @@ software engineer, proudly from brazil. i ship products end to end, lately with 
 - i write about programming and other things as well [here](https://alves.sh/writing)
 - i'm open to new challenges: remote, product or AI engineering · [resume](https://alves.sh/resume)
 
-· [hi@alves.sh](mailto:hi@alves.sh) 
-· [linkedin](https://linkedin.com/in/alves7)
-· [x](https://x.com/typescripting) 
+you can email me at [hi@alves.sh](mailto:hi@alves.sh) or dm me on · [linkedin](https://linkedin.com/in/alves7) · [x](https://x.com/typescripting) 
