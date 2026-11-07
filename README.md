@@ -1,14 +1,11 @@
-# *Yo, I'm Alves, software engineer and cybersecurity enthusiast*
+# yo, i'm alves :)
 
-### I like low level learning, web hacking, and type level programming 
+software engineer, proudly from brazil. i ship products end to end, lately with ai agents in the loop.
 
-<div>
-<ul align="left">
-    <li> <b>I'm currently open to new challenges</b></li>
-    <li><b>I'm currently building my personal space on the internet</b><a href="https://alves.sh"></li>
-    <li>You can reach me out here: <a href="https://x.com/typescripting">Twitter</a>, <a href="https://linkedin.com/in/alves7">Linkedin</a> </li>
-</ul>
+- [alves.sh](https://alves.sh) check my place on the internet
+- i write about programming and other things as well [here](https://alves.sh/writing)
+- i'm open to new challenges: remote, product or AI engineering · [resume](https://alves.sh/resume)
 
-</div>
-
-<p><i><b>"The bigger the circle of the known, the larger the contact with the unknown."</i></b></p>
+· [hi@alves.sh](mailto:hi@alves.sh) 
+· [linkedin](https://linkedin.com/in/alves7)
+· [x](https://x.com/typescripting) 
